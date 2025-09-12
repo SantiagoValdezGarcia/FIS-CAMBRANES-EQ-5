@@ -1,6 +1,7 @@
 Equipo 5. POR: 
-Santiago Valdez Garcia, 
+Cab kuk Jose Adrian
+Cuadros Colorado Gabriel De Jesus
 Fernandez Mena Lucy Iriel
 Perez Can Diego
-Cab Kuk Jose Adrian
-Cuadros Colorado Gabriel De Jesus
+Ruiz Rodriguez Jose David
+Valdez Garcia Santiago
