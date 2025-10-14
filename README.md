@@ -1,6 +1,9 @@
+## 👥 Integrantes del equipo
+
 | Foto | Nombre | Descripción |
 |------|---------|-------------|
-| Foto1 | Nombre1 | Descripción1 |
-| Foto2 | Nombre2 | Descripción2 |
-| Foto3 | Nombre3 | Descripción1 |
-| Foto4 | Nombre4 | Descripción2 |
+| <img src="img/integrante1.jpg" width="100"> | **Nombre Integrante 1** | Descripción corta |
+| <img src="img/integrante2.jpg" width="100"> | **Nombre Integrante 2** | Descripción corta |
+| <img src="img/integrante3.jpg" width="100"> | **Nombre Integrante 3** | Descripción corta |
+| <img src="img/integrante4.jpg" width="100"> | **Nombre Integrante 4** | Descripción corta |
+
