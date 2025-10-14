@@ -1,4 +1,4 @@
-## 👥 Integrantes del equipo
+## 👥 Integrantes del equipo 5
 
 | Foto | Nombre | Descripción |
 |------|---------|-------------|
