@@ -32,6 +32,6 @@ Mejorar la calidad de vida de los pacientes con epilepsia mediante:
 - **Lucy Fernández Mena** – Scrum master
 - **Adrián Cab Kuk** – Desarrollador Backend
 - **Gabriel Cuadros Colorado** – Desarrollador Frontend
-- **Diego Pérez Can** – QA / Comunicación
+- **Diego Pérez Can** – Diseñador UX/UI / Analista Funcional
 
 ---
