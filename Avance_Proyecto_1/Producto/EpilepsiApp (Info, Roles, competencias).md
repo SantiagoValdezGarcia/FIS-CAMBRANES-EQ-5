@@ -63,26 +63,23 @@ La propuesta de valor se centra en la seguridad y acompañamiento del paciente, 
 ## Requisitos
 
 ### Funcionales
-- Registro de usuario e inicio de sesión.
-- Perfil del paciente.
-- Gestión de medicación.
-- Recordatorios de medicación.
-- Historial de medicación.
-- Registro de crisis epilépticas.
-- Botón de emergencia.
-- Ubicación en tiempo real.
-- Modo sin conexión.
-- Compartir información con el médico.
-- Gestión de permisos y privacidad.
+- Registro e inicio de sesión.
+- Creación de perfiles con contactos de emergencia.
+- Registro y recordatorio de medicación.
+- Reporte de crisis y envío de ubicación en tiempo real.
+- Botón de emergencia rápida.
+- Visualización de adherencia terapéutica.
+- Integración de evidencia multimedia.
+- Compartir historiales médicos.
+- Modo de uso sin conexión.
 
 ### No funcionales
-- Seguridad.
-- Rendimiento.
-- Disponibilidad.
-- Usabilidad.
-- Interoperabilidad.
-- Mantenibilidad.
-- Consumo de energía.
+- Seguridad: cifrado de datos, autenticación reforzada y cumplimiento normativo.
+- Rendimiento: tiempos de respuesta adecuados, alta disponibilidad y entrega oportuna de notificaciones.
+- Usabilidad: flujo simplificado en pocos pasos.
+- Interoperabilidad: exportación de datos y soporte para APIs estandarizadas.
+- Mantenibilidad del código.
+- Optimización del consumo energético.
 
 **Validación:** Documento SRS, diagramas de casos de uso, prototipos, modelos de datos, matriz de trazabilidad, pruebas unitarias, de integración, rendimiento, seguridad y usabilidad, y validación por pacientes, familiares y profesionales de la salud.
 
@@ -109,35 +106,36 @@ La propuesta de valor se centra en la seguridad y acompañamiento del paciente, 
 
 ## Roles de Proyecto
 
-1. **Product Owner (PO) / Analista de Requerimientos (Santiago Valdez Garcia)**
-   - Definir la visión del producto.
-   - Priorizar el backlog.
-   - Asegurar que la app cumpla con las necesidades del usuario.
+1. **Jefe de Proyecto / Analista de Requerimientos (Santiago Valdez Garcia)**
+   - Coordinar equipo, administrar tiempos y entregables.
+   - Identificar necesidades y convertirlas en requisitos.
+   - Mantener comunicación con médicos y asociaciones de pacientes.
 
-6. **Asistente del PO (José Ruiz Rodriguez)**
-   - Apoyar al PO en tareas de gestión.
-   - Documentación.
-   - Comunicación con stakeholders.
+2. **Diseñador UX/UI (Gabriel Cuadros Colorado)**
+   - Diseñar interfaz clara y accesible.
+   - Crear prototipos, wireframes e identidad visual.
+   - Garantizar accesibilidad para usuarios con limitaciones visuales o motoras.
 
-4. **Desarrollador Frontend / Móvil (Lucy Fernández Mena)**
-   - Facilitar el proceso Scrum
-   - Remover obstáculos.
-   - Asegurar que el equipo cumpla con las prácticas ágiles.
+3. **Desarrollador Backend (Adrián Cab)**
+   - Arquitectura de servidor y base de datos.
+   - Seguridad y encriptación de información sensible.
+   - Integración con servicios externos (geolocalización, alertas).
 
-3. **Desarrollador Backend (Adrián Cab Kuk)**
-   - Construir y mantener la lógica de la app.
-   - Construir y mantener la lógica de la base de datos.
-   - Construir y mantener la lógica de las APIs.
-
-2. **Diseñador Frontend (Gabriel Cuadros Colorado)**
-   - Diseñar una interfaz de usuario clara y accesible (UI).
-   - Construir la experiencia de usuario (UX).
-   - Colaborar en pruebas de interfaz y ajustes de experiencia.
+4. **Desarrollador Frontend / Móvil (Lucy Iriel Fernández)**
+   - Implementación en Android e iOS.
+   - Integración UX/UI con backend.
+   - Funcionalidades clave: registro de crisis, botón de emergencia, notificaciones.
 
 5. **Tester / QA y Comunicación (Diego Pérez Can)**
    - Pruebas en diferentes dispositivos y escenarios.
    - Detectar errores y sugerir mejoras.
    - Preparar materiales de comunicación y difusión.
+
+6. **Especialista Médico-Asesor (José)**
+   - Brindar información validada sobre epilepsia.
+   - Asesorar sobre protocolos de emergencia.
+   - Validar contenido educativo.
+   - Asegurar funciones ajustadas a necesidades médicas.
 
 ---
 
@@ -153,7 +151,7 @@ La propuesta de valor se centra en la seguridad y acompañamiento del paciente, 
 
 ## Competencias de Gestión
 - Trabajo en equipo multidisciplinario.
-- Gestión de proyectos de software (Scrum, Scripts).
+- Gestión de proyectos de software (Scrum, Kanban).
 - Documentación y comunicación técnica y con usuarios/instituciones.
 
 ---
