@@ -75,7 +75,7 @@ La propuesta de valor se centra en la seguridad y acompañamiento del paciente, 
 
 ### No funcionales
 - Seguridad: cifrado de datos, autenticación reforzada y cumplimiento normativo.
-- Rendimiento: tiempos de respuesta adecuados, alta disponibilidad y entrega oportuna de notificaciones.
+- Rendimiento: tiempos de respuesta adecuados, alta disponibilidad y entrega oportuna  de notificaciones.
 - Usabilidad: flujo simplificado en pocos pasos.
 - Interoperabilidad: exportación de datos y soporte para APIs estandarizadas.
 - Mantenibilidad del código.
