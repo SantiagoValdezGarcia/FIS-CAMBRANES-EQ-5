@@ -40,6 +40,43 @@
 ### ⛔ Won’t Have Yet  
 *(No se implementarán por ahora)*
 
-> — Todos los RF son r 
- b
- 
+> — Todos los RF son relevantes; ninguno se descarta por completo.
+
+---
+
+## ⚙️ Requisitos No Funcionales (Categoría MoSCoW)
+
+### 🟥 Must Have  
+*(Esenciales para la versión inicial)*
+
+| Código | Requisito | Descripción breve |
+|--------|------------|-------------------|
+| RNF1 | Seguridad | Son esenciales para garantizar seguridad, accesibilidad y respuesta en emergencias. |
+| RNF3 | Disponibilidad |  |
+| RNF4 | Usabilidad |  |
+
+---
+
+### 🟧 Should Have  
+*(Importantes, pero no críticos para la primera versión)*
+
+| Código | Requisito | Descripción breve |
+|--------|------------|-------------------|
+| RNF2 | Rendimiento | Mejoran la experiencia y la capacidad de actualización, pero no impiden la operación inicial. |
+| RNF6 | Mantenibilidad |  |
+
+---
+
+### 🟨 Could Have  
+*(Deseables o de mejora futura)*
+
+| Código | Requisito | Descripción breve |
+|--------|------------|-------------------|
+| RNF5 | Interoperabilidad | Aumentan la compatibilidad y eficiencia, pero pueden optimizarse en versiones futuras. |
+| RNF7 | Consumo de energía |  |
+
+---
+
+📄 **Resumen:**  
+Esta priorización sigue el modelo **MoSCoW**, donde los requisitos se clasifican por importancia para las versiones iniciales y futuras, garantizando un desarrollo progresivo, seguro y funcional del proyecto.
+
