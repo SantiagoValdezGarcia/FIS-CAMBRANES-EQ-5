@@ -1,0 +1,45 @@
+# Prompt para crear la app “EpilepsiApp”
+
+Hola, quiero que me ayudes a crear una página web parecida a una aplicación para el celular llamada **EpilepsiApp**.  
+
+Es una app que sirve para ayudar a personas con epilepsia.  
+
+Quiero que se vea como una aplicación en el teléfono (centrada, no muy ancha) y que tenga varios botones y pantallas.  
+
+## Lo que quiero que tenga:
+
+- Un **botón rojo de emergencia** grande que diga “EMERGENCIA”.  
+- Dos botones pequeños que digan “Reportar crisis” y “Agregar medicamento”.  
+- Una lista con medicamentos y otra con crisis recientes.  
+- Abajo, una **barra con íconos** para cambiar de pantalla (Inicio, Historial, Reportes y Perfil).  
+
+## En el historial:
+- Que se puedan ver los registros de crisis, medicinas y alertas.  
+- Que haya botones para filtrar (ver solo crisis, solo medicinas o todo).  
+
+## En reportes:
+- Que salgan datos o estadísticas, como:
+  - Porcentaje de medicinas tomadas,  
+  - Cantidad de crisis este mes,  
+  - Tipo de crisis más común,  
+  - Alertas de emergencia.  
+- Y botones para **exportar o descargar la información** (en PDF, CSV o JSON).  
+
+## En perfil:
+- Que aparezca un nombre, edad, teléfono y peso.  
+- Datos médicos (nombre del doctor, tipo de epilepsia).  
+- Contactos de emergencia con nombre y teléfono.  
+- Y una parte con opciones como “Notificaciones activadas”, “Ubicación activada”, etc.  
+
+## Diseño:
+- Usa colores azul, rojo y blanco.  
+- Que se vea limpia, moderna y fácil de usar.  
+- Usa íconos (como los de Font Awesome).  
+
+## Además:
+- Que funcione aunque no haya internet (modo sin conexión).  
+- Que muestre un mensaje cuando no haya conexión.  
+- Que se pueda instalar como aplicación (PWA).  
+- Que tenga todo el código junto (HTML, CSS y JavaScript) en un solo archivo.  
+
+Por favor escríbelo todo claro y sin palabras difíciles, para que yo solo tenga que copiar y pegar el código en un archivo llamado `index.html`.
