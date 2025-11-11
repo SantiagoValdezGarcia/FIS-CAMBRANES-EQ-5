@@ -35,24 +35,38 @@ Mejorar la calidad de vida de los pacientes con epilepsia mediante:
 - **Diego Pérez Can** – Diseñador UX/UI / Analista Funcional
 
 ---
+## Enlaces directos a documentos
+
 ### [Competencias](./Competencias/Competencias.md)
+
+---
 
 ### Diseño
 - [Evolución de interfaces](./Diseño/Evolución%20de%20interfaces.md)
 - [Prompt](./Diseño/Prompt.md)
 
+---
+
 ### Presentación del Avance
 - [Formato de la presentación](./Presentación%20del%20Avance/Formato%20de%20la%20presentación.md)
 
+---
+
 ### Proceso (Mejorado)
 - [Descripción del proceso](./Proceso%20(Mejorado)/Descripción%20del%20proceso.md)
+
+---
 
 ### Producto
 - [Innovación](./Producto/Innovación.md)
 - [Usuarios](./Producto/Usuarios.md)
 
+---
+
 ### Pruebas
 - [Pruebas informales](./Pruebas/Pruebas%20informales.md)
+
+---
 
 ### Requisitos
 - [Casos de uso](./Requisitos/Casos%20de%20uso.md)
