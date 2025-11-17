@@ -2,7 +2,7 @@ Casos de Uso — EpilepsiApp
 ________________________________________
 1. Botón de emergencia
 Actor: Usuario con epilepsia
-Descripción: Envía una alerta a los contactos de emergencia con la ubicación actual.
+Descripción: Envía una alerta a los contactos de emergencia con la ubicación actual (Utilizando un link generado por Google maps).
 Precondiciones:
 •	El usuario tiene contactos registrados.
 •	El GPS está activado.
@@ -53,8 +53,7 @@ Flujo principal:
 3.	El sistema guarda el estado.
 Postcondiciones:
 •	Control diario actualizado.
-________________________________________
- Pantalla de Historial
+________________________________________ 
 5. Ver historial de registros
 Actor: Usuario
 Descripción: Muestra crisis, medicaciones y emergencias anteriores.
@@ -77,7 +76,6 @@ Flujo principal:
 Postcondiciones:
 •	Se muestran resultados filtrados.
 ________________________________________
- Pantalla de Reportes
 7. Generar reportes
 Actor: Paciente
 Descripción: Crea un reporte con estadísticas de salud.
@@ -113,7 +111,6 @@ Flujo principal:
 Postcondiciones:
 •	Información visible para análisis.
 ________________________________________
- Pantalla de Perfil
 10. Ver perfil
 Actor: Usuario
 Descripción: Muestra datos personales, médicos y contactos.
@@ -140,7 +137,7 @@ Postcondiciones:
 ________________________________________
 12. Editar contactos de emergencia
 Actor: Usuario
-Descripción: Agrega, elimina o edita contactos para alertas.
+Descripción: Agrega, elimina o edita contactos para alertas (Para envio de SMS).
 Precondiciones:
 •	El usuario tiene acceso al perfil.
 Flujo principal:
@@ -150,7 +147,6 @@ Flujo principal:
 Postcondiciones:
 •	Contactos actualizados.
 ________________________________________
- Funciones adicionales
 13. Modo sin conexión
 Actor: Usuario
 Descripción: Permite usar ciertas funciones sin internet.
@@ -176,4 +172,3 @@ Flujo principal:
 4.	El usuario la ejecuta desde el menú del dispositivo.
 Postcondiciones:
 •	App instalada como PWA.
-
