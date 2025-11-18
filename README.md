@@ -91,6 +91,6 @@ Cada enlace dirige al archivo correspondiente dentro del repositorio.
 ### Navegación rápida
 
 - [Ir a la carpeta principal](./EpilepsiApp_Avances%20del%20Proyecto/)
-- [Volver al inicio del repositorio](../)
+
 
 ---
