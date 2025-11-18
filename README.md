@@ -64,6 +64,7 @@ Cada enlace dirige al archivo correspondiente dentro del repositorio.
 ## Proceso (Mejorado)
 
 - [Descripción del proceso](./EpilepsiApp_Avances%20del%20Proyecto/Proceso%20(Mejorado)/Descripción%20del%20proceso.md)
+- [Gestión del proceso](./EpilepsiApp_Avances%20del%20Proyecto/Proceso%20(Mejorado)/Gestión%20del%20proceso.md)
 
 ---
 
@@ -84,7 +85,7 @@ Cada enlace dirige al archivo correspondiente dentro del repositorio.
 
 - [Casos de uso](./EpilepsiApp_Avances%20del%20Proyecto/Requisitos/Casos%20de%20uso.md)  
 - [Historias de usuario](./EpilepsiApp_Avances%20del%20Proyecto/Requisitos/Historias%20de%20usuario.md)  
-- [Requerimientos finales](./EpilepsiApp_Avances%20del%20Proyecto/Requisitos/Requerimientos%20finales.md)
+- [Requerimientos finales](./EpilepsiApp_Avances%20del%20Proyecto/Requisitos/Requerimientos%20Finales.md)
 
 ---
 
