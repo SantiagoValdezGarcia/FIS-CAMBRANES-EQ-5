@@ -8,3 +8,4 @@
 | Diego Pérez     | -               | 4 (Síntesis, Ideas al guion, Actuación, Espacios óptimos) | - | 8 |
 | José Ruiz       | -               | 1 (Ideas al guion) | 1 (Narración)   | 3              |
 | Lucy Fernández  | 2 (Propuesta de valor, Metodología) | 2 (Ideas al guion, Actuar en video) | - | 10             |
+..
