@@ -25,7 +25,7 @@
 3.4 El usuario debe poder seleccionar rango de fechas y tipo de datos antes de exportar.  
 
 ### 4. Perfil
-4.1 El sistema debe mostrar la información personal del usuario (nombre, edad, peso, teléfono).  
+4.1 El sistema debe mostrar la información personal del usuario (nombre, fecha de nacimiento, teléfono).  
 4.2 Debe mostrar la información médica (médico tratante, teléfono médico, tipo de epilepsia).  
 4.3 Debe mostrar y permitir editar los contactos de emergencia.  
 4.4 Debe permitir editar la información personal y médica mediante botones de edición.  
@@ -47,16 +47,27 @@
 
 ## Requerimientos No Funcionales
 
-### 1. Rendimiento
-1.1 La aplicación debe cargar completamente en menos de 3 segundos en dispositivos móviles.  
-1.2 Las transiciones entre pantallas deben ser suaves y sin retrasos perceptibles.  
-1.3 Las alertas, formularios y botones deben responder en menos de 1 segundo al interactuar.  
+### 1. Usabilidad
+1.1 Interfaz intuitiva
+La pantalla de la app debe ser muy clara:
+- Los **iconos** deben representar exactamente lo que hacen (por ejemplo, un ícono de campana para alertas).
+- Los **textos** deben ser simples, sin palabras complicadas.
 
-### 2. Usabilidad
-2.1 La interfaz debe ser intuitiva, con iconos y textos fácilmente comprensibles para todo público.  
-2.2 Los botones más importantes (como “Emergencia”) deben estar visibles y accesibles en todo momento.  
-2.3 El usuario debe poder navegar entre pantallas (Inicio, Historial, Reportes, Perfil) sin necesidad de recargar la aplicación.  
-2.4 La app debe incluir mensajes o alertas claras para confirmar acciones o advertir errores.  
+1.2 Botones importantes siempre visibles: Algunas funciones deben ser accesibles **todo el tiempo**, sin buscar en menús.
+Por ejemplo, el botón **“Emergencia”** debe estar siempre en pantalla para que el usuario pueda usarlo rápido si lo necesita.
+
+ 1.3 Navegación sin recargar la app: El usuario debe poder cambiar entre pantallas como **Inicio**, **Historial**, **Reportes** y **Perfil** sin que la app se reinicie o tarde mucho.  
+Es decir, cambiar de una sección a otra debe ser fluido y sin tiempos de espera.
+
+1.4 Mensajes y alertas claras
+La app debe mostrar mensajes claros cuando:
+- El usuario haga una acción importante (por ejemplo: “¿Seguro que deseas borrar este reporte?”).
+- O cuando ocurra un error (por ejemplo: “No se pudo enviar el reporte. Intenta otra vez.”).
+
+### 2. Rendimiento
+2.1 La aplicación debe cargar completamente en menos de 3 segundos en dispositivos móviles.  
+2.2 Las transiciones entre pantallas deben ser suaves y sin retrasos perceptibles.  
+3.3 Las alertas, formularios y botones deben responder en menos de 1 segundo al interactuar.  
 
 ### 3. Compatibilidad
 3.1 La aplicación debe funcionar correctamente en los navegadores Google Chrome, Microsoft Edge y Safari móvil.  
