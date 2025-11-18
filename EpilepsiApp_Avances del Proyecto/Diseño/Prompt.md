@@ -1,45 +1,40 @@
 # Prompt para crear la app “EpilepsiApp”
 
-Hola, quiero que me ayudes a crear una página web parecida a una aplicación para el celular llamada **EpilepsiApp**.  
-
-Es una app que sirve para ayudar a personas con epilepsia.  
-
-Quiero que se vea como una aplicación en el teléfono (centrada, no muy ancha) y que tenga varios botones y pantallas.  
+Hola, quiero que me ayudes a crear una interfaz web con html interactiva y de facil acceso, basandote principalmente en los archivos brindados con los requisitos e historias de usuario, tambien utilozando la imagen brindada para el logo de la app, el nombre elegido para dicha app es **EpilepsiApp**.  
+Quiero que se vea como una aplicación que sea compatible con movil y web, que contenga distintas pantallas, para que asi sea intuitiva y facil de usar para todo tipo de usuarios, ya sea gente de la tercera edad o jovenes familiarizados con tecnologia.
 
 ## Lo que quiero que tenga:
 
 - Un **botón rojo de emergencia** grande que diga “EMERGENCIA”.  
-- Dos botones pequeños que digan “Reportar crisis” y “Agregar medicamento”.  
-- Una lista con medicamentos y otra con crisis recientes.  
-- Abajo, una **barra con íconos** para cambiar de pantalla (Inicio, Historial, Reportes y Perfil).  
+- Botones mas pequeños con las funciones principales que digan “Reportar crisis”, “Medicamentos", "Historial", "Estadisticas", "Contactos" y "perfil"
+- Arriba una **barra con íconos** para cambiar de pantalla 
 
 ## En el historial:
 - Que se puedan ver los registros de crisis, medicinas y alertas.  
 - Que haya botones para filtrar (ver solo crisis, solo medicinas o todo).  
 
-## En reportes:
+## En Estadisticas:
 - Que salgan datos o estadísticas, como:
   - Porcentaje de medicinas tomadas,  
-  - Cantidad de crisis este mes,  
+  - Cantidad y frecuencia de crisis este mes,  
   - Tipo de crisis más común,  
   - Alertas de emergencia.  
 - Y botones para **exportar o descargar la información** (en PDF, CSV o JSON).  
-
+## En Contactos:
+- Que salgan apartados para agregar contactos de emegergencia.
+- Que salgan apartados para agregar contactos medicos.
 ## En perfil:
 - Que aparezca un nombre, edad, teléfono y peso.  
-- Datos médicos (nombre del doctor, tipo de epilepsia).  
-- Contactos de emergencia con nombre y teléfono.  
+- Datos médicos (nombre del doctor, tipo de epilepsia).    
 - Y una parte con opciones como “Notificaciones activadas”, “Ubicación activada”, etc.  
 
 ## Diseño:
 - Usa colores azul, rojo y blanco.  
 - Que se vea limpia, moderna y fácil de usar.  
-- Usa íconos (como los de Font Awesome).  
+- Usa íconos simples.
 
 ## Además:
 - Que funcione aunque no haya internet (modo sin conexión).  
 - Que muestre un mensaje cuando no haya conexión.  
 - Que se pueda instalar como aplicación (PWA).  
-- Que tenga todo el código junto (HTML, CSS y JavaScript) en un solo archivo.  
 
-Por favor escríbelo todo claro y sin palabras difíciles, para que yo solo tenga que copiar y pegar el código en un archivo llamado `index.html`.
