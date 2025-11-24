@@ -15,7 +15,7 @@ Gracias por participar. Esta prueba evalúa la facilidad de uso y claridad de un
 ---
 
 ## 🧩 SECCIÓN 3 — Tarea 1: Registrar una crisis
-**Tarea:** “Registra una crisis en la app.”
+**Tarea:** “Registra una crisis del tipo focal con duracion de 15 minutos y con la fecha de hoy en la app”
 
 1. ¿Qué tan fácil fue completar esta tarea? (Muy fácil, Fácil, Neutral, Difícil, Muy difícil)  
 2. ¿Qué parte del proceso te resultó confusa?  
@@ -25,7 +25,7 @@ Gracias por participar. Esta prueba evalúa la facilidad de uso y claridad de un
 ---
 
 ## 💊 SECCIÓN 4 — Tarea 2: Agregar un medicamento
-**Tarea:** “Agrega un medicamento nuevo.”
+**Tarea:** “Agrega un medicamento nuevo (eje. omeprazol).”
 
 1. ¿Qué tan rápido encontraste el botón?  
 2. ¿El formulario es claro?  
@@ -35,7 +35,7 @@ Gracias por participar. Esta prueba evalúa la facilidad de uso y claridad de un
 ---
 
 ## 📚 SECCIÓN 5 — Tarea 3: Buscar un registro en el historial
-**Tarea:** “Encuentra un registro en el historial.”
+**Tarea:** “Encuentra un registro con enfoque focal en el historial y dime los detalles de dicho registro (fecha, hora, sintomas).”
 
 1. ¿Fueron útiles los filtros?  
 2. ¿Los íconos fueron claros?  
@@ -51,6 +51,7 @@ Gracias por participar. Esta prueba evalúa la facilidad de uso y claridad de un
 ---
 
 ## 👤 SECCIÓN 7 — Tarea 5: Editar Perfil
+(pon tu nombre, este correo Mrsniperoteam@gmail.com en el apartado de correos, y deja el resto de cosas como ya estaban).
 1. ¿Fue fácil encontrar la sección?  
 2. ¿Qué tan claro era el formulario?  
 3. ¿Qué mejorarías?  
