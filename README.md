@@ -78,7 +78,8 @@ Cada enlace dirige al archivo correspondiente dentro del repositorio.
 ## Pruebas
 
 - [Pruebas informales](./EpilepsiApp_Avances%20del%20Proyecto/Pruebas/Pruebas%20informales.md)
-
+- [Análisis](./EpilepsiApp_Avances%20del%20Proyecto/Pruebas/Análisis.md)
+- [Evidencias](./EpilepsiApp_Avances%20del%20Proyecto/Pruebas/Evidencias.md)
 ---
 
 ## Requisitos
