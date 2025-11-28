@@ -66,6 +66,8 @@ Cada enlace dirige al archivo correspondiente dentro del repositorio.
 
 - [Descripción del proceso](./EpilepsiApp_Avances%20del%20Proyecto/Proceso%20(Mejorado)/Descripción%20del%20proceso.md)
 - [Gestión del proceso](./EpilepsiApp_Avances%20del%20Proyecto/Proceso%20(Mejorado)/Gestión%20del%20proceso.md)
+- [Métrica de Contribución](./EpilepsiApp_Avances%20del%20Proyecto/Métrica%20de%20Contribución)
+
 
 ---
 
