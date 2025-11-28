@@ -47,4 +47,12 @@ El uso complementario de IA ha permitido **acelerar procesos**, mantener una **d
 ---
 
 ### Evidencia
-Las herramientas utilizadas en el proceso fortalecen la **gestión integral del proyecto** y permiten un seguimiento detallado de los avances. Sin embargo, debido a que el equipo ha recurrido principalmente a medios informales para la organización del trabajo (como WhatsApp y breves reuniones presenciales), no se cuenta con evidencias suficientes para documentar adecuadamente el progreso. Esta situación también explica la falta de coordinación y cooperación dentro del equipo, ya que la ausencia de canales formales dificulta la comunicación y el control de tareas.
+Las herramientas utilizadas en el proceso fortalecen la **gestión integral del proyecto** y permiten un seguimiento detallado de los avances. Sin embargo, debido a que el equipo ha recurrido principalmente a medios informales para la organización del trabajo (como WhatsApp y breves reuniones presenciales), no se cuenta con evidencias suficientes para documentar adecuadamente el progreso. Esta situación también explica la falta de coordinación y cooperación dentro del equipo, sobre todo al inicio, ya que la ausencia de canales formales dificulta la comunicación y el control de tareas.
+
+- Las evidencias que hemos recopilado son las siguientes:
+
+| Evidencia | Imagen | Medio
+|------|---------|------|
+| [Reunión con desarrolladores](./Fotos%20de%20evidencia/Reunión%20de%20Teams%20con%20desarrolladores.png) |  <img src="./Fotos de evidencia/Reunión de Teams con desarrolladores.png" width="300px" height="200px"> |  Teams |
+| [Discusión del Prompt y la interfaz](./Fotos%20de%20evidencia/Discusión%20del%20Prompt%20y%20la%20interfaz.jpeg) | <img src="./Fotos de evidencia/Discusión del Prompt y la interfaz.jpeg" width="200px" height="300px"> |  WhatsApp |
+| [Reuniones](./Fotos%20de%20evidencia/Reuniones.jpeg) | <img src="./Fotos de evidencia/Reuniones.jpeg" width="350px" height="175px"> |Reuniones en persona |

@@ -56,6 +56,18 @@ Ajustes de diseño, Integración de avances, Documentación formal.
 | **Diego Pérez Can**          | Diseñador UX/UI        | - Coordinación con Frontend y PO.<br>- Ajustes visuales finales.        |
 
 
+## Sprint 4 — Refinamiento Final, Pruebas y Cierre del Proyecto  
+**Enfoque:** Ajustes finales del prototipo, documentación definitiva, creación del proceso, validación mediante pruebas y elaboración de métricas finales.
+
+| Integrante | Rol | Actividades Realizadas |
+|------------|-----|------------------------|
+| **Santiago Valdez García** | Product Owner | - Supervisión de modificaciones del prototipo según retro del profesor. <br> - Revisión y aprobación del README final. <br> - Validación de casos de uso. <br> - Coordinación general del cierre del sprint. <br> - Realización de pruebas con usuarios. |
+| **Lucy Fernández Mena** | Scrum Master | - Gestión del proceso y aseguramiento del cumplimiento de actividades. <br> - Organización y control de la documentación final. <br> - Supervisión de la métrica individual de entrega 4. <br> - Verificación de la subida de documentos actualizados. <br> - Realización de pruebas con usuarios. |
+| **Adrián Cab Kuk** | Desarrollador Backend | - Especificación detallada de casos de uso. <br> - Apoyo en la creación y modificación de pruebas según retroalimentación. <br> - Validación técnica del proceso documentado. <br> - Realización de pruebas con usuarios. |
+| **Gabriel Cuadros Colorado** | Desarrollador Frontend | - Modificación del prototipo acorde a la retroalimentación del profesor. <br> - Integración de la versión final del prototipo. <br> - Subida de documentos y recursos actualizados a la branch de 'TerceraEntrega'. <br> - Realización de pruebas con usuarios. |
+| **Diego Pérez Can** | Diseñador UX/UI | - Creación de la primera versión de preguntas para las pruebas. <br> - Modificación de pruebas según retroalimentación. <br> - Realización de pruebas con usuarios. <br> - Síntesis y diagnóstico de los resultados de pruebas. |
+
+
 ## **Cambios significativos en el proceso**
 
 Durante el desarrollo de **EpilepsiApp** ocurrieron cambios importantes en la organización y ejecución del proceso. Los ajustes más relevantes fueron:
