@@ -1,12 +1,11 @@
 | Nombre (Edad)         | Foto |
 |-----------------------|------|
-| Persona A (21)        | ![Persona 1] 
-| Persona B (23)        | 
-| Persona C (40)        | ![Persona 3](./images/person3.jpg) |
-| Persona D (42)        | ![Persona 4](./images/person4.jpg) |
-| Persona E (19)        | ![Persona 5](./images/person5.jpg) |
-| Persona F (19)        | ![Persona 6](./images/person6.jpg) |
-| Persona G (55)        | ![Persona 7](./images/person7.jpg) |
-| Persona H (25)        | ![Persona 8](./images/person8.jpg) |
-| Persona I (26)        | ![Persona 9](./images/person9.jpg) |
-| Persona J (30)       | ![Persona 10](./images/person10.jpg) |
+| Persona A (21)        |  ![alt text](<WhatsApp Image 2025-11-24 at 23.13.19.jpeg>)
+| Persona B (23)        | ![alt text](<WhatsApp Image 2025-11-24 at 23.13.21.jpeg>)
+| Persona C (40)        | ![alt text](<WhatsApp Image 2025-11-24 at 23.13.23.jpeg>) |
+| Persona D (42)        | ![alt text](<WhatsApp Image 2025-11-25 at 16.25.38 (1).jpeg>) |
+| Persona E (19)        | ![alt text](<WhatsApp Image 2025-11-25 at 16.25.38.jpeg>) |
+| Persona F (19)        | ![alt text](<WhatsApp Image 2025-11-26 at 06.37.31 (1).jpeg>) |
+| Persona G (55)        | ![alt text](<WhatsApp Image 2025-11-26 at 06.37.31.jpeg>) |
+| Karla Kuk (38)        | ![alt text](<WhatsApp Image 2025-11-27 at 21.48.26.jpeg>) |
+| Ricardo Cab (40)        | ![alt text](<WhatsApp Image 2025-11-27 at 22.07.52.jpeg>) |
