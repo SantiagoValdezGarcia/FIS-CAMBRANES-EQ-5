@@ -45,6 +45,7 @@ Cada enlace dirige al archivo correspondiente dentro del repositorio.
 ## Competencias
 
 - [Competencias](./EpilepsiApp_Avances%20del%20Proyecto/Competencias/Competencias.md)
+- [Crítica Constructiva al Curso](./EpilepsiApp_Avances%20del%20Proyecto/Competencias/Critica.md)
 
 ---
 
