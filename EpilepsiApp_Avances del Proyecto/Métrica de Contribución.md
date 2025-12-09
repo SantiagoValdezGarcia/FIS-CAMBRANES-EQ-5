@@ -65,14 +65,14 @@ La tercera entrega se considera como etapa de refinamiento y validación; por el
 
 Se estandariza la escala para mostrar el total acumulado de trabajo por integrante.
 
-| **Integrante**       | **Puntos 1ª Entrega** | **Puntos 2ª Entrega** | **Total Acumulado** | **Porcentaje del Equipo** |
-|----------------------|------------------------|------------------------|----------------------|----------------------------|
-| Santiago Valdez      | 9                      | 15                     | 24                   | 19.35%                     |
-| José Ruiz            | 3                      | 11                     | 14                   | 11.29%                     |
-| Lucy Fernández       | 10                     | 15                     | 25                   | 20.16%                     |
-| Adrián Cab           | 8                      | 12                     | 20                   | 16.13%                     |
-| Gabriel Cuadros      | 9                      | 16                     | 25                   | 20.16%                     |
-| Diego Pérez          | 8                      | 11                     | 19                   | 13.71%                     |
+| **Integrante**       | **Puntos 1ª Entrega** | **Puntos 2ª Entrega** | **Puntos 3ª Entrega** | **Total Acumulado** | **Porcentaje del Equipo** |
+|----------------------|------------------------|------------------------|----------------------|----------------------|----------------------------|
+| Santiago Valdez      | 9                      | 15                     | 16                   | 40                   |21%                      |
+| José Ruiz            | 3                      | 11                     | 0                   | 14                   | 6%                     |
+| Lucy Fernández       | 10                     | 15                     | 16                   | 41                   | 21%                    |
+| Adrián Cab           | 8                      | 12                     | 13                   | 34                   |  19%                    |
+| Gabriel Cuadros      | 9                      | 16                     | 13                   | 38                   | 20%                     |
+| Diego Pérez          | 8                      | 11                     | 9                   | 28                   |  12%                    |
 
 ---
 
